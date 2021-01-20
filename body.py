@@ -3,7 +3,7 @@ from telebot import types
 from database import *
 import random
 
-bot = telebot.TeleBot('976475763:AAHQ590SacIfLuQxrse7F4Dk0wEzr9wxcVQ')
+bot = telebot.TeleBot('')
 global list1
 global urword
 global score
